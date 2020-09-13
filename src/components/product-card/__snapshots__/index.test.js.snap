@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`product card component it renders correctly 1`] = `
+
+<div class="product-card">
+  <div class="remove-btn">
+    <img src="test-file-stub">
+  </div>
+  <div class="image-container">
+    <img class="image"
+         src="https://via.placeholder.com/130x175"
+    >
+  </div>
+  <div class="info-container alignCenter">
+    <div class="brandName">
+      BRAND 1
+    </div>
+    <div class="price">
+      €100.40
+    </div>
+  </div>
+</div>
+
+`;

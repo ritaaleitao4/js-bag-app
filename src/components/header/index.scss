@@ -1,0 +1,35 @@
+.header {
+    text-align: center;
+    background-color: #e6e6e6;
+    height: 100px;
+    width: 100%;
+    justify-content: space-between;
+
+    @media (min-width: 768px) {
+        flex-flow: column nowrap;
+        justify-content: center;
+        height: 150px;
+    }
+
+    h1 {
+        font-size: 20px;
+        font-weight: bold;
+        margin-left: 24px;
+
+        @media (min-width: 768px) {
+            margin-left: 0px;
+            font-size: 40px;
+        }
+    }
+
+    p {
+        font-size: 15px;
+        margin-right: 24px;
+
+        @media (min-width: 768px) {
+            margin-top: 16px;
+            margin-right: 0px;
+            font-size: 25px;
+        }
+    }
+}

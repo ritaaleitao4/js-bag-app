@@ -1,0 +1,170 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`product list component it renders correctly 1`] = `
+
+<main class="product-list alignCenter">
+  <div class="product-card">
+    <div class="remove-btn">
+      <img src="test-file-stub">
+    </div>
+    <div class="image-container">
+      <img class="image"
+           src="https://via.placeholder.com/130x175"
+      >
+    </div>
+    <div class="info-container alignCenter">
+      <div class="brandName">
+        BRAND 1
+      </div>
+      <div class="price">
+        €100.40
+      </div>
+    </div>
+  </div>
+  <div class="product-card">
+    <div class="remove-btn">
+      <img src="test-file-stub">
+    </div>
+    <div class="image-container">
+      <img class="image"
+           src="https://via.placeholder.com/130x175"
+      >
+    </div>
+    <div class="info-container alignCenter">
+      <div class="brandName">
+        BRAND 2
+      </div>
+      <div class="price">
+        €100.20
+      </div>
+    </div>
+  </div>
+  <div class="product-card">
+    <div class="remove-btn">
+      <img src="test-file-stub">
+    </div>
+    <div class="image-container">
+      <img class="image"
+           src="https://via.placeholder.com/130x175"
+      >
+    </div>
+    <div class="info-container alignCenter">
+      <div class="brandName">
+        BRAND 3
+      </div>
+      <div class="price">
+        €150.33
+      </div>
+    </div>
+  </div>
+  <div class="product-card">
+    <div class="remove-btn">
+      <img src="test-file-stub">
+    </div>
+    <div class="image-container">
+      <img class="image"
+           src="https://via.placeholder.com/130x175"
+      >
+    </div>
+    <div class="info-container alignCenter">
+      <div class="brandName">
+        BRAND 4
+      </div>
+      <div class="price">
+        €150.33
+      </div>
+    </div>
+  </div>
+  <div class="product-card">
+    <div class="remove-btn">
+      <img src="test-file-stub">
+    </div>
+    <div class="image-container">
+      <img class="image"
+           src="https://via.placeholder.com/130x175"
+      >
+    </div>
+    <div class="info-container alignCenter">
+      <div class="brandName">
+        BRAND 5
+      </div>
+      <div class="price">
+        €50.21
+      </div>
+    </div>
+  </div>
+  <div class="product-card">
+    <div class="remove-btn">
+      <img src="test-file-stub">
+    </div>
+    <div class="image-container">
+      <img class="image"
+           src="https://via.placeholder.com/130x175"
+      >
+    </div>
+    <div class="info-container alignCenter">
+      <div class="brandName">
+        BRAND 6
+      </div>
+      <div class="price">
+        €230.39
+      </div>
+    </div>
+  </div>
+  <div class="product-card">
+    <div class="remove-btn">
+      <img src="test-file-stub">
+    </div>
+    <div class="image-container">
+      <img class="image"
+           src="https://via.placeholder.com/130x175"
+      >
+    </div>
+    <div class="info-container alignCenter">
+      <div class="brandName">
+        BRAND 7
+      </div>
+      <div class="price">
+        €1030.99
+      </div>
+    </div>
+  </div>
+  <div class="product-card">
+    <div class="remove-btn">
+      <img src="test-file-stub">
+    </div>
+    <div class="image-container">
+      <img class="image"
+           src="https://via.placeholder.com/130x175"
+      >
+    </div>
+    <div class="info-container alignCenter">
+      <div class="brandName">
+        BRAND 8
+      </div>
+      <div class="price">
+        €300.30
+      </div>
+    </div>
+  </div>
+  <div class="product-card">
+    <div class="remove-btn">
+      <img src="test-file-stub">
+    </div>
+    <div class="image-container">
+      <img class="image"
+           src="https://via.placeholder.com/130x175"
+      >
+    </div>
+    <div class="info-container alignCenter">
+      <div class="brandName">
+        BRAND 9
+      </div>
+      <div class="price">
+        €130.90
+      </div>
+    </div>
+  </div>
+</main>
+
+`;
