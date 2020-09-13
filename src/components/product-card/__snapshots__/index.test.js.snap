@@ -4,7 +4,9 @@ exports[`product card component it renders correctly 1`] = `
 
 <div class="product-card">
   <div class="remove-btn">
-    <img src="test-file-stub">
+    <img src="test-file-stub"
+         id="item1"
+    >
   </div>
   <div class="image-container">
     <img class="image"

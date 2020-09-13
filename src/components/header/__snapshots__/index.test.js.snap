@@ -1,9 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`footer component it renders correctly 1`] = `
-
-<footer class="footer alignCenter">
-  @ Copyright E-commerce Store
-</footer>
-
-`;
